@@ -1,3 +1,6 @@
+# BOT-BATTLR
+This is a simple web application that enables the user to view various bots from a collection and to choose a preffered bot that will be added to the user's bot army. A user can also remove a bot from the bot army by simply clicking on it. The user can also dischage a bot permanently by clicking the button marked "X" in red. This means that the bot will be removed from the user's bot army and collection. This application has been developed using the React library. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
